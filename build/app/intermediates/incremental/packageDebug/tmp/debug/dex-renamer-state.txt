@@ -1,0 +1,4 @@
+#Sat Nov 19 22:46:50 KST 2022
+base.0=/Users/jimin/Documents/GitHub/countdown/simple python code/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
